@@ -28,9 +28,9 @@ a.menu4:hover{color:#579e7a}
 footer {height:40px;background-color: #ffb638; color: white; line-height: 40px; text-align: center;position: fixed; bottom: auto;bottom:0;width:100%;}
 
 article h2{color: #8cbfa5;font-family: 'League Spartan', sans-serif;font-size: 85px;margin: -3% 50% 0 11%;padding: 150px 0; position: absolute;}
-article p{float: left;color: #7186d9;font-family: 'Farro', sans-serif;font-size: 20px;margin: 10% 44% 0 11%;position: absolute;}
-article p2{float: right;color: #7186d9;font-family: 'Farro', sans-serif;font-size: 20px;margin: 20% 17% 0 40%;position: absolute;;text-align: right}
-article p3{float: right;color: #7186d9;font-family: 'Farro', sans-serif;font-size: 20px;margin: 32% 17% 0 40%;position: absolute;text-align: right}
+article p{float: left;color: #7186d9;font-family: 'Farro', sans-serif;font-size: 20px;margin: 13% 44% 0 11%;position: absolute;}
+article p2{float: right;color: #7186d9;font-family: 'Farro', sans-serif;font-size: 20px;margin: 23% 17% 0 40%;position: absolute;;text-align: right}
+article p3{float: right;color: #7186d9;font-family: 'Farro', sans-serif;font-size: 20px;margin: 36% 17% 0 40%;position: absolute;text-align: right}
 img.inz {height:30%;position: absolute;margin: 21% 0 0 15%;z-index: 100}
 img.fala2 {;position: absolute;margin: 20% 0 0 12.5%;z-index: 0}
 img.team {position: absolute;height: 30%;margin: 3% 100% 0 50%}
@@ -42,15 +42,15 @@ a.powrot:hover{color: #b33737}
 
 img.manin {height:30%;position: absolute;margin: 24% 0 0 12%;z-index: 100}
 img.internet {position: absolute;height: 40%;margin: 3% 10% 0 50%}
-article p4{float: left;color: #7186d9;font-family: 'Farro', sans-serif;font-size: 16px;margin: 11% 44% 0 11%;position: absolute;}
-article p5{float: right;color: #7186d9;font-family: 'Farro', sans-serif;font-size: 16px;margin: 24% 17% 0 40%;position: absolute;;text-align: right}
-article p6{float: right;color: #7186d9;font-family: 'Farro', sans-serif;font-size: 16px;margin: 35% 17% 0 40%;position: absolute;;text-align: right}
+article p4{float: left;color: #7186d9;font-family: 'Farro', sans-serif;font-size: 16px;margin: 12% 44% 0 11%;position: absolute;}
+article p5{float: right;color: #7186d9;font-family: 'Farro', sans-serif;font-size: 16px;margin: 25% 17% 0 40%;position: absolute;;text-align: right}
+article p6{float: right;color: #7186d9;font-family: 'Farro', sans-serif;font-size: 16px;margin: 37% 17% 0 40%;position: absolute;;text-align: right}
 
 img.typek1 {height:40%;position: absolute;margin: 20% 0 0 10%;z-index: 100}
 img.typek2 {position: absolute;height: 43%;margin: 1% 100% 0 55%}
-article p7{float: left;color: #7186d9;font-family: 'Farro', sans-serif;font-size: 16px;margin: 10% 44% 0 11%;position: absolute;}
-article p8{float: right;color: #7186d9;font-family: 'Farro', sans-serif;font-size: 16px;margin: 21% 17% 0 30%;position: absolute;;text-align: right}
-article p9{float: right;color: #7186d9;font-family: 'Farro', sans-serif;font-size: 16px;margin: 31% 17% 0 30%;position: absolute;;text-align: right}
+article p7{float: left;color: #7186d9;font-family: 'Farro', sans-serif;font-size: 16px;margin: 11% 44% 0 11%;position: absolute;}
+article p8{float: right;color: #7186d9;font-family: 'Farro', sans-serif;font-size: 16px;margin: 22% 17% 0 30%;position: absolute;;text-align: right}
+article p9{float: right;color: #7186d9;font-family: 'Farro', sans-serif;font-size: 16px;margin: 33% 17% 0 30%;position: absolute;;text-align: right}
 
 article p10{align-content: center;margin: 10% 0% 0 10%;position: absolute;}
 
