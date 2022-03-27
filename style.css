@@ -1,6 +1,7 @@
 *{margin: 0 0 0 0; padding:0;box-sizing: border-box;}
 
 body{ background-color: #fff4e0; width: 100%}
+.WebContainer{width:100%;min-width:1000px;height:auto;}
 
 nav a{background-color:#ffb638;z-index: 100;position: relative}
 a.menu{display: inline-block;width:25%;padding:15px 30px;color: white;text-decoration: none;text-align: center;font-family: 'Farro', sans-serif;}
